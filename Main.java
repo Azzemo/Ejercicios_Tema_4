@@ -58,7 +58,7 @@ public class Main {
              break;
         
             default:
-            System.out.println("Es INVIERANO"+"!");
+            System.out.println("Esto NO es una estación!"+"!");
              break;
         }
     }
